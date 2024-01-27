@@ -1,0 +1,26 @@
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navigation-menu li{
+    margin: 0rem 2rem
+}
+.navigation-menu li a{
+    text-decoration: none;
+}
+.mobile-navigation-menu{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mobile-navigation-menu li{
+    margin-top: 1rem;
+}
+.mobile-navigation-menu li a{
+    text-decoration: none;
+    font-size: 1.4rem;
+}
