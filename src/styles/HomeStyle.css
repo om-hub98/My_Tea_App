@@ -1,0 +1,14 @@
+.home {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.homeContainer{
+    width:auto;
+    margin-left:2rem
+}
